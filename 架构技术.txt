@@ -1,0 +1,19 @@
+glitter in struggling
+
+
+API网关:Openresty\zuul
+测试工具:Jmeter
+设计模式:Proxy代理模式\Factory工厂模式\Singleton单例模式\Delegate委派模式\Strategy策略模式\Prototype原型模式\Template模板模式
+分布式监控:Nagios、Zabbix、Consul
+分布式实现:ZooKeeper、nginx
+分布式缓存:Redis
+服务治理发现:Swagger2,dubbo,spring boot eureka
+反应式编程:Spring WebFlux
+
+
+压力测试工具:apache ab、webbench、httpload、loadrunner、引流压测，将分布式的多台机器的请求转发到单点服务器上进行测试
+
+39.108.99.14(公)
+172.18.116.230(私有)
+
+前端可视化组件:Highcharts、百度Echarts、蚂蚁金服AntV、Google Charts、D3.js、Raphael.js、Sigma.js、three.js
